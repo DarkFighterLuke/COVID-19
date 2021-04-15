@@ -5,6 +5,33 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>15/04/2021</b><br>
+La Regione Abruzzo ha comunicato che dal totale dei casi positivi e stato sottratto 1 caso in quanto duplicato. La Regione Emilia Romagna ha comunicato che sono stati eliminati 10 casi, positivi a test antigenico ma non confermati da tampone molecolare. La Regione Puglia ha comunicato che è stata effettuata una riclassificazione di alcuni casi confermati da test antigenico, i quali sono risultati successivamente anche confermati da test molecolare e quindi ricompresi tra questi.
+
+<b>14/04/2021</b><br>
+La Regione Abruzzo comunica che dal totale dei positivi sono stati sottratti 2 casi: 1 in quanto già segnalato da altre Regioni ed 1 in quanto non paziente COVID. La Regione Emilia Romagna comunica che sono stati eliminati 6 casi, positivi a test antigenico ma non confermati da tampone molecolare.
+
+<b>13/04/2021</b><br>
+La Regione Emilia Romagna comunica che sono stati eliminati 8 casi, positivi a test antigenico ma non confermati da tampone molecolare.
+
+<b>12/04/2021</b><br>
+La Regione Abruzzo comunica che dal totale dei positivi è stato sottratto 1 caso dei giorni scorsi in quanto duplicato. La Regione Emilia Romagna comunica che sono stati eliminati 8 casi già comunicati come casi confermati, di cui 3 casi positivi a test antigenico ma non confermati da tampone molecolare e 5 casi comunicati nei giorni precedenti, in quanto giudicati non casi COVID-19.
+
+<b>11/04/2021</b><br>
+La regione Emilia Romagna comunica che dal totale dei positivi sono stati eliminati 4 casi dichiarati nei giorni precedenti, in quanto positivi al test antigenico ma non confermati da tampone molecolare. La P.A. di Bolzano comunica che dal totale dei positivi sono stati eliminati 5 casi dichiarati nei giorni precedenti, in quanto positivi al test antigenico ma non confermati da tampone molecolare. La regione Veneto comunica che alcuni casi confermati da test antigenico essendo stati successivamente confermati da test molecolare sono stati ricompresi tra quest'ultimi.
+
+<b>10/04/2021</b><br>
+La regione Emilia Romagna comunica che dal totale dei positivi sono stati eliminati 3 casi dichiarati nei giorni precedenti, in quanto positivi al test antigenico ma non confermati da tampone molecolare. La P.A. di Bolzano comunica che dal totale dei positivi sono stati eliminati 11 casi dichiarati nei giorni precedenti, in quanto positivi al test antigenico ma non confermati da tampone molecolare. La regione Puglia comunica che alcuni casi confermati da test antigenico essendo stati successivamente confermati da test molecolare sono stati ricompresi tra quest'ultimi.  La regione Sicilia comunica che il numero di Guariti deriva da un ricalcolo effettuato con dati incompleti riferiti alle ultime due settimane e il numero di Deceduti deriva da un ricalcolo effettuato con dati incompleti riferiti a mesi precedenti.
+
+<b>09/04/2021</b><br>
+La regione Emilia Romagna comunica che dal totale dei positivi sono stati eliminati 3 casi dichiarati nei giorni precedenti, in quanto positivi al test antigenico ma non confermati da tampone molecolare. La P.A. di Bolzano comunica che dal totale dei positivi sono stati eliminati 11 casi dichiarati nei giorni precedenti, in quanto positivi al test antigenico ma non confermati da tampone molecolare. La regione Puglia comunica che alcuni casi confermati da test antigenico essendo stati successivamente confermati da test molecolare sono stati ricompresi tra quest'ultimi.  La regione Sicilia comunica che il numero di Guariti deriva da un ricalcolo effettuato con dati incompleti riferiti alle ultime due settimane e il numero di Deceduti deriva da un ricalcolo effettuato con dati incompleti riferiti a mesi precedenti.
+
+<b>08/04/2021</b><br>
+La regione Emilia Romagna comunica che dal totale dei positivi sono stati eliminati 8 casi dichiarati nei giorni precedenti, in quanto positivi al test antigenico ma non confermati da tampone molecolare. La P.A. di Bolzano comunica che dal totale dei positivi sono stati eliminati 4 casi dichiarati nei giorni precedenti, in quanto positivi al test antigenico ma non confermati da tampone molecolare.
+
+<b>07/04/2021</b><br>
+La regione Abruzzo comunica che dal totale dei positivi, dichiarato nei giorni precedenti, è stato sottratto 1 caso in quanto duplicato. La regione Emilia Romagna comunica che dal totale dei positivi sono stati eliminati 19 casi dichiarati nei giorni precedenti, in quanto positivi al test antigenico ma non confermati da tampone molecolare. La P.A. di Bolzano comunica che dal totale dei positivi sono stati eliminati 2 casi dichiarati nei giorni precedenti, in quanto positivi al test antigenico ma non confermati da tampone molecolare.
+
 <b>06/04/2021</b><br>
 La regione Emilia Romagna comunica che dal totale dei positivi sono stati eliminati 3 casi dichiarati nei giorni precedenti, in quanto positivi al test antigenico ma non confermati da tampone molecolare. La P.A. di Bolzano comunica che dal totale dei positivi è stato eliminato 1 caso dichiarato nei giorni precedenti, in quanto positivo al test antigenico ma non confermato da tampone molecolare.
 

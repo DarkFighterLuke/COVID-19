@@ -6,16 +6,18 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 
 - Bonifica dati pregressi con codici NUTS
 - Note di analisi di data quality
-- Aggiornamento dati giorni precedenti in base alle note di ricalcoli da parte delle Regioni
-- Dopo il 6 gennaio 2021 gli agiornamenti delle nuove aree con le misura di contenimento verranno effettuati solo sul file generalizzato
 
-## Prossimo aggiornamento 2021-04-07
+## Prossimo aggiornamento 2021-04-17
 
 - Revisione della documentazione e descrizione processamento dei dati
 
+## 2021-04-12
+
+- Modifica: aggiornati shape e geojson (zippato) file generalizzati con le nuove misure di contenimento a livello regionale (aree rosse, arancioni, gialle e bianche), con relativi metadata.
+
 ## 2021-04-07
 
-- Modifica: aggiornati shape (il file .shp è zippato) e geojson (zippato in due parti) file generalizzati con le nuove misure di contenimento a livello regionale (aree rosse, arancioni, gialle e bianche), con relativi metadata.
+- Modifica: aggiornati shape (il file .shp è zippato) e geojson (zippato) file generalizzati con le nuove misure di contenimento a livello regionale (aree rosse, arancioni, gialle e bianche), con relativi metadata.
 
 ## 2021-04-06
 
